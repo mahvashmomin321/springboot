@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;bankApp&apos;" deleteContents="false" description="Delete resource &apos;bankApp&apos;" element1="/bankApp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1555385763968"/>&#x0A;<refactoring comment="Delete resource &apos;inheritanceperhierarchy&apos;" deleteContents="false" description="Delete resource &apos;inheritanceperhierarchy&apos;" element1="/inheritanceperhierarchy" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1555499603892"/>
+</session>
